@@ -1,8 +1,8 @@
-package lectionegro10.adapter__pattern.mainpackage;
+package main.lectionegro10.adapter__pattern.mainpackage;
 
-import lectionegro10.adapter__pattern.Circle;
-import lectionegro10.adapter__pattern.Drawable;
-import lectionegro10.adapter__pattern.DrawableShapeAdaptor;
+import main.lectionegro10.adapter__pattern.Circle;
+import main.lectionegro10.adapter__pattern.Drawable;
+import main.lectionegro10.adapter__pattern.DrawableShapeAdaptor;
 
 public class main {
     public static void main(String[] args) {

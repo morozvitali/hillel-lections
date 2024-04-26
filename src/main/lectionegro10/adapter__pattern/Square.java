@@ -1,4 +1,4 @@
-package lectionegro10.adapter__pattern;
+package main.lectionegro10.adapter__pattern;
 
 public class Square implements Shape {
     private double side;

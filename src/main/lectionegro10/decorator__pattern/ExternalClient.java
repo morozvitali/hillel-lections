@@ -1,4 +1,4 @@
-package lectionegro10.decorator__pattern;
+package main.lectionegro10.decorator__pattern;
 
 public interface ExternalClient {
     /*
